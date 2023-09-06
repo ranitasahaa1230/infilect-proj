@@ -1,4 +1,4 @@
-# Image Annotation Tool from scratch. Built using ReactJS with Vite and Tailwind CSS.
+## Image Annotation Tool Built using ReactJS with Vite and Tailwind CSS.
 
 1. Build an application that shows the below images on screen, along with navigation
 buttons for moving both forward and backward through the images
@@ -8,7 +8,7 @@ existing bounding boxes.
 'Save' button is clicked.
 4. Provide a ‘Submit’ button to download the annotations in the form of JSON.
 
-# How to run this project:
+## How to run this project:
 
 1. Clone the repository
 2. cd infilect-proj
